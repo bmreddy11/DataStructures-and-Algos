@@ -1,2 +1,2 @@
-# LinkedList
-Implementation of LinkedList methods using Java
+# DataStructures and Algos
+Implementation of Different types of Data Structures and Algorithms in Java.
